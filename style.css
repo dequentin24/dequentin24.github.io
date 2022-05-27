@@ -1,0 +1,714 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lobster&family=Oleo+Script+Swash+Caps:wght@700&family=Yanone+Kaffeesatz:wght@300&display=swap');
+
+
+*{
+  padding:0;
+  margin:1;
+  
+}
+body{
+  background-color:	#f0e4dc;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  overflow-x:hidden;
+}
+
+
+
+
+
+
+
+nav ul li{
+  display:inline-block;
+  padding:2rem;
+  
+ 
+ 
+  
+
+}
+nav ul li a{
+  text-decoration:none;
+  
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  color: black;
+  font-size:32px;
+  
+}
+
+a:hover{
+  color:red;
+}
+
+.section0_words{
+  font-size: 50px;
+  padding:3%;
+}
+.taxes{
+ width:90%;
+ margin-left: 5%;
+
+}
+
+
+.sign_up{
+  padding: 1rem;
+  height:auto;
+  border-radius: 20%;
+  background:#ab4c2d;
+  font-size: large;
+  color:white;
+  font-size:60px;
+  border:none;
+
+
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+
+}
+.sign_up:hover{
+  background-color:#514e2d;
+}
+
+
+
+
+
+
+.taxes2{
+  width: 100%;
+  margin-bottom: 15%;
+}
+
+
+.container2_companies{
+display: inline-block;
+  
+}
+.row::after{
+  content:"";
+  display:table;
+  clear:both;
+}
+.column{
+  width: 25%;
+  margin-bottom: 40%;
+  margin-left: 12%;
+  padding:5%;
+
+}
+
+.mcdonalds{
+  width:30%;
+}
+
+.content{
+  font-size: 50px;
+  text-align:center;
+  width: 60%;
+  margin-left: 23%;
+
+}
+.cash_collection{
+  width:30%;
+  margin-left:38%;
+
+  
+}
+
+.cash
+{
+
+  margin-left:5%;
+  font-size:35px;
+  text-align:center;
+}
+
+.analytics
+{
+  width:30%;
+  margin-left:37%;
+ 
+}
+.analytics_img{
+
+  margin-left:5%;
+  font-size:35px;
+  text-align:center;
+}
+
+.payment_img{
+ width:30%;
+  margin-left:37%;
+}
+
+.payment{
+  
+  margin-left:5%;
+  font-size:35px;
+  text-align:center;
+ 
+}
+
+.section1{
+
+font-size:30px;
+background:linear-gradient(100deg,#ffbe98,#3f5c7d);
+padding: 5%;
+border-radius: 20px;
+width:80%;
+margin-left: 5%;
+margin-bottom: 10%;
+}
+
+.button1{
+  font-size: 50px;
+      padding:10px;
+      border-radius: 20px;
+      border: none;
+      background: #ab4c2d;
+      font-family: 'Yanone Kaffeesatz', sans-serif;
+      color:white;
+      margin-left: 10%;
+      margin-top:10%;
+      margin-bottom: 10%;
+      width: 70%;
+
+}
+
+.button1:hover{
+  background-color:#514e2d;
+}
+
+.section2{
+  font-size:50px;
+background:linear-gradient(100deg,#ffbe98,#3f5c7d);
+padding: 5%;
+border-radius: 20px;
+width:80%;
+margin-left: 5%;
+margin-bottom: 10%;}
+
+.section3{
+  font-size:30px;
+  background:linear-gradient(100deg,#ffbe98,#3f5c7d);
+  padding: 5%;
+  border-radius: 20px;
+  width:80%;
+  margin-left: 5%;
+  margin-bottom: 20%;
+
+}
+
+.section4{
+  font-size:30px;
+  background:linear-gradient(100deg,#ffbe98,#3f5c7d);
+  padding: 9%;
+  border-radius: 20px;
+  width:80%;
+  margin-left: 1%;
+  margin-bottom: 20%;
+  
+
+
+}
+
+.section4_blogpost
+{
+  display:inline-block;
+  margin-left: 17%;
+
+}
+
+.section5{
+
+  width: 25%;
+  margin-bottom: 40%;
+  margin-left: 12%;
+  padding:5%;
+}
+
+.section6{
+  font-size:30px;
+  background:linear-gradient(100deg,#ffbe98,#3f5c7d);
+  padding: 9%;
+  border-radius: 20px;
+  width:80%;
+  margin-left: 1%;
+  margin-bottom: 20%;
+  
+  
+}
+
+.cool{
+  
+
+  margin-left:7%;
+  font-size:55px;
+  text-align:center;
+}
+
+.OurPricing{
+  margin-left:5%;
+  font-size:55px;
+  text-align:center;
+  
+}
+
+.blog{
+  margin-left:5%;
+  font-size:55px;
+  text-align:center;
+}
+
+.button2{
+  font-size: 50px;
+  padding:5%;
+  border-radius: 20px;
+  border: none;
+  background: #ab4c2d;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  color:white;
+  
+  margin-top: 50%;
+  width: 100%;
+
+
+
+}
+
+.button2:hover{
+  background-color:#514e2d;
+}
+.taxes3{
+  width: 90%;
+
+  
+  
+
+}
+
+.button2{
+  font-size: 50px;
+  padding:5%;
+  border-radius: 20px;
+  border: none;
+  background: #ab4c2d;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  color:white;
+  margin-left:30%;
+  margin-top: -15%;
+  width: 70%;
+
+
+
+}
+
+@media(min-width:1200px) {
+
+  .row{
+    display: grid;
+      grid-template-columns: 28% 28% 28% 28% ;
+      grid-template-rows: 100%;
+      margin-left: 5%;
+      margin-top:10%;
+    }
+  .section0_words{
+    margin-left: 2%;
+    margin-top: 10%;
+    font-size: 70px;
+    width:50%;
+    padding:4%;
+  }
+  
+
+  .taxes{
+    max-width: 50%;
+    margin-left:50%;
+    margin-top: -40%;
+  
+    
+  
+  }
+
+  .section4_blogpost{
+  display: grid;
+  grid-template-columns: 20% 20% 20% 20% ;
+  grid-template-rows: 100%;
+  margin-left: 20%;
+  
+  }
+
+  .pricing{
+    
+    display: grid;
+    grid-template-columns: 25% 25% 25% ;
+    grid-template-rows: 100%;
+    margin-left: 25%;
+     
+ 
+  }
+  .payment_img{
+    width:50%;
+    margin-left:28%;
+  
+   
+  }
+
+  .analytics
+{
+  width:50%;
+  margin-left:28%;
+
+ 
+}
+.cash_collection{
+  width:50%;
+  margin-left:28%;
+
+ 
+
+  
+}
+
+.row2{
+  display: grid;
+  grid-template-columns: 30% 30% 30% 30%;
+  grid-template-rows: 100%;
+  margin-left: 10%;
+  font-size: 50px;
+  width:90%;
+  margin-bottom:10%;
+  padding:2%;
+
+  
+  
+  }
+
+  .content{
+    width:80%;
+    text-align:center;
+    margin-left: 12%;
+
+  }
+
+  .cool{
+  
+
+    margin-left:7%;
+    font-size:55px;
+    text-align:center;
+    margin-bottom: 10%;
+  }
+  
+  .cash{
+    font-size: 60px;
+  }
+
+  .analytics_img{
+    font-size: 60px;
+  }
+
+  .payment{
+    font-size: 60px;
+  }
+  .row3{
+    display: grid;
+    grid-template-columns: 1% 40% 30% 25%;
+    grid-template-rows: 100%;
+    
+  }
+
+  .section1{
+
+    font-size:40px;
+    background:linear-gradient(100deg,#ffbe98,#3f5c7d);
+    padding:1% ;
+    border-radius: 20px;
+    width:50%;
+    margin-left:25%;
+    margin-bottom: 50px;
+    }
+
+    .stack1{
+      width: 150%;
+      margin-left:-25%;
+
+    }
+
+    .button1{
+      font-size: 50px;
+      padding:10px;
+      border-radius: 20px;
+      border: none;
+      background: #ab4c2d;
+      font-family: 'Yanone Kaffeesatz', sans-serif;
+      color:white;
+      margin-left: 10%;
+      margin-bottom:75%;
+      margin-top: 50%;
+      width: 80%;
+
+    
+    
+    }
+
+    .taxes2{
+      width: 130%;
+      margin-bottom: 15%;
+    }
+
+    .stack2{
+      width: 100%;
+      margin-left:4%;
+   
+
+    }
+  .section2{
+font-size:45px;
+background:linear-gradient(100deg,#ffbe98,#3f5c7d);
+padding: 5%;
+border-radius: 20px;
+width:75%;
+margin-left: 5%;
+margin-bottom: 10%;}
+
+.taxes3{
+  width: 80%;
+
+  
+  
+
+}
+
+.row4{
+  display: grid;
+  grid-template-columns: 40% 30% 35%;
+  grid-template-rows: 100%;
+  
+}
+
+.button2{
+  font-size: 50px;
+  padding:5%;
+  border-radius: 20px;
+  border: none;
+  background: #ab4c2d;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  color:white;
+  margin-left:55%;
+  margin-bottom:1%;
+  width: 80%;
+
+
+
+}
+
+.button2:hover{
+  background-color:#514e2d;
+}
+}
+
+@media(min-width:1536px){
+
+  .row{
+    display: grid;
+      grid-template-columns: 28% 28% 28% 28% ;
+      grid-template-rows: 100%;
+      margin-left: 5%;
+      margin-top:10%;
+    }
+  .section0_words{
+    margin-left: 2%;
+    margin-top: 10%;
+    font-size: 70px;
+    width:50%;
+    padding:4%;
+  }
+  
+
+  .taxes{
+    max-width: 50%;
+    margin-left:50%;
+    margin-top: -40%;
+  
+    
+  
+  }
+
+  .section4_blogpost{
+  display: grid;
+  grid-template-columns: 20% 20% 20% 20% ;
+  grid-template-rows: 100%;
+  margin-left: 20%;
+  
+  }
+
+  .pricing{
+    
+    display: grid;
+    grid-template-columns: 25% 25% 25% ;
+    grid-template-rows: 100%;
+    margin-left: 25%;
+     
+ 
+  }
+  .payment_img{
+    width:50%;
+    margin-left:28%;
+  
+   
+  }
+
+  .analytics
+{
+  width:50%;
+  margin-left:28%;
+
+ 
+}
+.cash_collection{
+  width:50%;
+  margin-left:28%;
+
+ 
+
+  
+}
+
+.row2{
+  display: grid;
+  grid-template-columns: 30% 30% 30% 30%;
+  grid-template-rows: 100%;
+  margin-left: 10%;
+  font-size: 50px;
+  width:90%;
+  margin-bottom:10%;
+  padding:2%;
+
+  
+  
+  }
+
+  .content{
+    width:80%;
+    text-align:center;
+    margin-left: 12%;
+
+  }
+
+  .cool{
+  
+
+    margin-left:7%;
+    font-size:55px;
+    text-align:center;
+    margin-bottom: 10%;
+  }
+  
+  .cash{
+    font-size: 60px;
+  }
+
+  .analytics_img{
+    font-size: 60px;
+  }
+
+  .payment{
+    font-size: 60px;
+  }
+  .row3{
+    display: grid;
+    grid-template-columns: 1% 40% 30% 30%;
+    grid-template-rows: 100%;
+    
+  }
+
+  .section1{
+
+    font-size:50px;
+    background:linear-gradient(100deg,#ffbe98,#3f5c7d);
+    padding:1% ;
+    border-radius: 20px;
+    width:50%;
+    margin-left:25%;
+    margin-bottom: 50px;
+    }
+
+    .stack1{
+      width: 150%;
+      margin-left:-25%;
+
+    }
+
+    .button1{
+      font-size: 50px;
+      padding:10px;
+      border-radius: 20px;
+      border: none;
+      background: #ab4c2d;
+      font-family: 'Yanone Kaffeesatz', sans-serif;
+      color:white;
+      margin-left: 10%;
+      margin-top:35%;
+      width: 70%;
+
+    
+    
+    }
+
+    .taxes2{
+      width: 130%;
+      margin-bottom: 15%;
+    }
+
+    .stack2{
+      width: 100%;
+      margin-left:4%;
+   
+
+    }
+  .section2{
+font-size:45px;
+background:linear-gradient(100deg,#ffbe98,#3f5c7d);
+padding: 5%;
+border-radius: 20px;
+width:75%;
+margin-left: 5%;
+margin-bottom: 10%;}
+
+.taxes3{
+  width: 80%;
+
+  
+  
+
+}
+
+.row4{
+  display: grid;
+  grid-template-columns: 40% 30% 25%;
+  grid-template-rows: 100%;
+  
+}
+
+.button2{
+  font-size: 50px;
+  padding:5%;
+  border-radius: 20px;
+  border: none;
+  background: #ab4c2d;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  color:white;
+  margin-left:55%;
+  margin-top: -15%;
+  width: 70%;
+
+
+
+}
+
+.button2:hover{
+  background-color:#514e2d;
+}
+
+}
